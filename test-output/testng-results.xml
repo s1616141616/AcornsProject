@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="9" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="259214" started-at="2018-09-07T03:30:31Z" finished-at="2018-09-07T03:34:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="259214" started-at="2018-09-07T03:30:31Z" finished-at="2018-09-07T03:34:51Z">
+      <class name="com.acorns.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="setUp" is-config="true" duration-ms="14527" started-at="2018-09-07T03:32:10Z" finished-at="2018-09-07T03:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="clickOnInvesmentLinkTest()[pri:1, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="clickOnInvesmentLinkTest" duration-ms="6566" started-at="2018-09-07T03:32:24Z" finished-at="2018-09-07T03:32:31Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Learn More About Our Portfolios | corns] but found [Learn More About Our Portfolios | Acorns]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Learn More About Our Portfolios | corns] but found [Learn More About Our Portfolios | Acorns]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.acorns.testcases.HomePageTest.clickOnInvesmentLinkTest(HomePageTest.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnInvesmentLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="287" started-at="2018-09-07T03:32:31Z" finished-at="2018-09-07T03:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="setUp" is-config="true" duration-ms="32634" started-at="2018-09-07T03:32:31Z" finished-at="2018-09-07T03:33:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnFoundMoneyLinkTest()[pri:2, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="clickOnFoundMoneyLinkTest" duration-ms="25609" started-at="2018-09-07T03:33:04Z" finished-at="2018-09-07T03:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnFoundMoneyLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="297" started-at="2018-09-07T03:33:30Z" finished-at="2018-09-07T03:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="setUp" is-config="true" duration-ms="13644" started-at="2018-09-07T03:33:30Z" finished-at="2018-09-07T03:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnAcornsLaterLinkTest()[pri:3, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="clickOnAcornsLaterLinkTest" duration-ms="4411" started-at="2018-09-07T03:33:43Z" finished-at="2018-09-07T03:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAcornsLaterLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="344" started-at="2018-09-07T03:33:48Z" finished-at="2018-09-07T03:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="setUp" is-config="true" duration-ms="11488" started-at="2018-09-07T03:33:48Z" finished-at="2018-09-07T03:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnSpendLinkTest()[pri:4, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="clickOnSpendLinkTest" duration-ms="5120" started-at="2018-09-07T03:34:00Z" finished-at="2018-09-07T03:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSpendLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="282" started-at="2018-09-07T03:34:05Z" finished-at="2018-09-07T03:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="setUp" is-config="true" duration-ms="9527" started-at="2018-09-07T03:34:05Z" finished-at="2018-09-07T03:34:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnPricingLinkTest()[pri:5, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="clickOnPricingLinkTest" duration-ms="4709" started-at="2018-09-07T03:34:15Z" finished-at="2018-09-07T03:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnPricingLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="279" started-at="2018-09-07T03:34:19Z" finished-at="2018-09-07T03:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="setUp" is-config="true" duration-ms="10226" started-at="2018-09-07T03:34:20Z" finished-at="2018-09-07T03:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnGrowMagazineLinkTest()[pri:6, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="clickOnGrowMagazineLinkTest" duration-ms="721" started-at="2018-09-07T03:34:30Z" finished-at="2018-09-07T03:34:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnGrowMagazineLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="424" started-at="2018-09-07T03:34:31Z" finished-at="2018-09-07T03:34:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="setUp" is-config="true" duration-ms="14619" started-at="2018-09-07T03:34:31Z" finished-at="2018-09-07T03:34:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnGiftCArdLinkTest()[pri:7, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="clickOnGiftCArdLinkTest" duration-ms="4688" started-at="2018-09-07T03:34:46Z" finished-at="2018-09-07T03:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnGiftCArdLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.HomePageTest@60c6f5b]" name="tearDown" is-config="true" duration-ms="293" started-at="2018-09-07T03:34:50Z" finished-at="2018-09-07T03:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.acorns.testcases.HomePageTest -->
+      <class name="com.acorns.testcases.AccountLogInPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.AccountLogInPageTest@1e127982]" name="setUp" is-config="true" duration-ms="17746" started-at="2018-09-07T03:30:32Z" finished-at="2018-09-07T03:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.acorns.testcases.AccountLogInPageTest@1e127982]" name="loginTest" duration-ms="31591" started-at="2018-09-07T03:30:50Z" data-provider="getTestData" finished-at="2018-09-07T03:31:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[harunbabumohammad]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1740 N King]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Apt 10]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[04211980]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[CA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.AccountLogInPageTest@1e127982]" name="tearDown" is-config="true" duration-ms="319" started-at="2018-09-07T03:31:21Z" finished-at="2018-09-07T03:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.acorns.testcases.AccountLogInPageTest@1e127982]" name="setUp" is-config="true" duration-ms="17359" started-at="2018-09-07T03:31:22Z" finished-at="2018-09-07T03:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.acorns.testcases.AccountLogInPageTest@1e127982]" name="loginTest" duration-ms="30565" started-at="2018-09-07T03:31:39Z" data-provider="getTestData" finished-at="2018-09-07T03:32:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Harun]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mohammadharunbabu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5346 Loma Linda]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Apt 101]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[04211977]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[CA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acorns.testcases.AccountLogInPageTest@1e127982]" name="tearDown" is-config="true" duration-ms="284" started-at="2018-09-07T03:32:10Z" finished-at="2018-09-07T03:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.acorns.testcases.AccountLogInPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,108 @@
+2018-09-03 18:40:59,290 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-03 18:41:00,245 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-03 18:43:25,846 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-03 18:43:26,779 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-03 19:04:16,247 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-03 19:06:06,685 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-03 19:08:57,367 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-03 19:14:21,900 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-03 19:14:34,130 [main] INFO com.acorns.testcases.AccountLogInPageTest - Found Money page launched
+2018-09-03 19:15:48,078 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-03 19:15:59,681 [main] INFO com.acorns.testcases.AccountLogInPageTest - Found Money page launched
+2018-09-03 19:53:14,260 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-03 19:53:14,417 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-03 19:53:25,568 [main] INFO com.acorns.testcases.AccountLogInPageTest - Found Money page launched
+2018-09-03 19:54:51,462 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-03 19:54:51,612 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-03 19:55:12,816 [main] INFO com.acorns.testcases.AccountLogInPageTest - Found Money page launched
+2018-09-03 19:55:13,078 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-04 00:51:27,671 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 00:51:28,604 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 00:52:16,762 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 00:52:17,726 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:05:26,151 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:05:27,068 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:05:41,562 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:05:42,279 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:07:19,494 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:07:20,426 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:07:34,232 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:07:35,033 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:08:57,853 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:08:58,901 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:09:13,737 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:09:14,738 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:19:00,662 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:19:01,598 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:19:15,387 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:19:16,457 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:21:33,417 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:21:34,415 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:21:47,975 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:21:48,937 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:23:49,181 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:23:50,338 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:24:28,222 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:24:29,192 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:57:10,422 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:57:11,623 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 01:58:16,701 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 01:58:17,878 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 02:03:10,553 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 02:03:11,553 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 02:03:57,405 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 02:03:58,223 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 02:04:16,229 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-04 02:04:16,395 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-04 02:04:32,232 [main] INFO com.acorns.testcases.AccountLogInPageTest - Found Money page launched
+2018-09-04 02:04:32,605 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-04 12:08:07,680 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-04 12:08:07,975 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-04 12:08:21,281 [main] INFO com.acorns.testcases.AccountLogInPageTest - Found Money page launched
+2018-09-04 12:08:21,706 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-04 12:36:15,546 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:36:16,506 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 12:42:32,428 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:42:33,361 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 12:42:53,222 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:42:54,157 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 12:46:33,046 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:46:33,995 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 12:46:54,367 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:46:55,303 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 12:50:38,015 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:50:38,915 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 12:51:10,168 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:51:11,128 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 12:52:20,193 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:52:21,175 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 12:52:42,946 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 12:52:43,931 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 13:00:18,699 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 13:00:19,641 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 13:00:42,045 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-04 13:00:42,885 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-04 13:01:01,695 [main] INFO com.acorns.testcases.AccountLogInPageTest - Investments page launched
+2018-09-04 13:01:01,940 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-04 13:01:14,651 [main] INFO com.acorns.testcases.AccountLogInPageTest - Found Money page launched
+2018-09-04 13:01:15,024 [main] INFO com.acorns.testcases.AccountLogInPageTest - Screenshot Taken.
+2018-09-05 12:21:25,774 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-05 12:21:26,762 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-05 12:22:00,738 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-05 12:22:01,518 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-05 13:06:26,160 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-05 13:06:27,217 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-05 13:06:49,995 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-05 13:06:51,136 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-05 13:29:16,536 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-05 13:29:17,415 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-05 13:29:37,040 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-05 13:29:38,111 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-05 13:33:25,142 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-05 13:33:26,057 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-05 13:33:46,103 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-05 13:33:47,028 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-06 00:23:39,288 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-06 00:23:40,312 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
+2018-09-06 00:24:09,178 [main] INFO com.acorns.testcases.AccountLogInPageTest - Clicked on Log in link.
+2018-09-06 00:24:10,138 [main] INFO com.acorns.testcases.AccountLogInPageTest - Log in successful
